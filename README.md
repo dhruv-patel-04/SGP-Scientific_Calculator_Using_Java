@@ -31,10 +31,9 @@ A desktop-based scientific calculator application built in Java that performs va
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone(https://github.com/Dharam13/SGP-Scientific-calculator-using-java-)
+   git clone(https://github.com/Dharam13/SGP-Scientific_Calculator_Using_java)
 
 ## Contributors
+- [Dhruv Patel](https://github.com/dhruv-patel-04)
 - [Dharam Patel](https://github.com/Dharam13)
 - [Dhup Patel](https://github.com/Dhuppatel)
-- [Dhruv Patel](https://github.com/dhruv-patel-04)
-
